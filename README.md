@@ -26,3 +26,4 @@ pip install fastapi uvicorn websockets
 
 ## FE
 * 라이브 서버로 실행하세요.
+* 테스트1
